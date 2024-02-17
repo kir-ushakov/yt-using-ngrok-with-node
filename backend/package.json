@@ -1,0 +1,6 @@
+{
+  "author": "Kirill Ushakov",
+  "dependencies": {
+    "@ngrok/ngrok": "^0.9.1"
+  }
+}
